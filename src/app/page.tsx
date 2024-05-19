@@ -1,7 +1,9 @@
+import Inicio from "@/components/Inicio";
 import Image from "next/image";
+import '../styles/style.css';
 
 export default function Home() {
   return (
-    <h1> Olá, mundo! </h1>
+    <Inicio />
   );
 }
