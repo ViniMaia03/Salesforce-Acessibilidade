@@ -15,9 +15,9 @@ export default function Header() {
                             <Image src={Logo} alt="Logo da Salesforce" />
 
                             <ul className="lista">
-                                <Item name="PROPOSTA"/>
-                                <Item name="ACESSIBILIDADE"/>
-                                <Item name="EQUIPE"/>
+                                <Item name="Inicio"/>
+                                <Item name="Acessibilidade"/>
+                                <Item name="Mercado"/>
                             </ul>
                         </div>
 

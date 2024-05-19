@@ -12,7 +12,7 @@ export default function Rodape() {
                         <ul>
                             <li> José Ribeiro dos Santos - RM553844 </li>
                             <li> Lorenzo Augusto Vaz - RM553941</li>
-                            <li> Vinicus Maia Santos - RM52969 </li>
+                            <li> Vinicius Maia Santos - RM52969 </li>
                         </ul>
                     </div>
                 </div>

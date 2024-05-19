@@ -14,8 +14,8 @@ export default function Mercado() {
                         </div>
 
                         <div className="mercado-txt">
-                            <span className="span-mercado"> Nossa Acessibilidade </span>
-                            <h2 className="titulo-mercado"> Conheça nossos Métodos </h2>
+                            <span className="span-mercado"> Tamanho de Mercado </span>
+                            <h2 className="titulo-mercado"> Conheça o Tamanho do Mercado </h2>
                             <p className="subtitulo-mercado"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor facere adipisci saepe assumenda! Et, eligendi quaerat illo architecto nemo sunt, nam alias placeat nobis recusandae quibusdam deleniti officia eius quas. </p>
                         </div>
                     </div>
