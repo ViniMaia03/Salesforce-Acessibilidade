@@ -1,0 +1,67 @@
+/* CONFIGURAÇÕES GERAIS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --azul-primario: #106eb0;
+    --azul-escuro: #172554;
+    --azul-claro: #60a5fa;
+    --bg-color: #d1d5db;
+    --cinza: #27272a;
+    --preto: #000; 
+    --branco: #fff;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+/* CABEÇALHO */
+.cabecalho {
+    width: 100%;
+    height: 6rem;
+    background-color: var(--azul-escuro);
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    width: 100%;
+    max-width: 1246px;
+    padding: 15px;
+    margin: auto;
+}
+
+.nav {
+    display: flex;
+    gap: 3.5rem;
+}
+
+.lista {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.item {
+    list-style: none;
+    display: flex;
+}
+
+.btn-cabecalho {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background-color: var(--azul-escuro);
+    border: none;
+    cursor: pointer;
+}
+
+.txt-cabecalho {
+    color: var(--branco);
+    font-weight: bold;
+    font-size: 1rem;
+}
