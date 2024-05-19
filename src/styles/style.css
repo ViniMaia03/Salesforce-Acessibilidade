@@ -36,6 +36,12 @@ body {
     margin: auto;
 }
 
+.menuNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .nav {
     display: flex;
     gap: 3.5rem;
@@ -64,4 +70,17 @@ body {
     color: var(--branco);
     font-weight: bold;
     font-size: 1rem;
+}
+
+.buscar {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.buscarInput {
+    background-color: transparent;
+    outline: none;
+    color: var(--branco);
+    border: none;
 }
