@@ -3,6 +3,7 @@ import Image from "next/image";
 import '../styles/style.css';
 import SessaoAcessibilidade from "@/components/SessaoAcessibilidade";
 import Mercado from "@/components/SessaoMercado";
+import Rodape from "@/components/Rodape";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Inicio />
       <SessaoAcessibilidade />
       <Mercado />
+      <Rodape />
     </>
     
   );
