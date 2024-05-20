@@ -19,7 +19,6 @@
 body {
     background-color: var(--bg-color);
 }
-
 /* CABEÇALHO */
 .cabecalho {
     width: 100%;
@@ -227,6 +226,44 @@ body {
     font-size: 18px;
     max-width: 554px;
     margin-bottom: 68px;
+}
+
+/* FORMULÁRIO */
+.form{
+    align-items: center;
+    width: 100%;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.form-titulo {
+    color: var(--azul-escuro);
+    font-size: 56px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.area-form input {
+    border: none;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 20px;
+    width: 30rem;
+    color: var(--azul-escuro);
+}
+
+.btn-form {
+    background-color: var(--azul-primario);
+    color: var(--branco);
+    border: none;
+    border-radius: 20px;
+    padding: 1rem;
+    width: 15rem;
 }
 
 /* RODAPÉ */

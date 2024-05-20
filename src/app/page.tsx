@@ -4,6 +4,7 @@ import '../styles/style.css';
 import SessaoAcessibilidade from "@/components/SessaoAcessibilidade";
 import Mercado from "@/components/SessaoMercado";
 import Rodape from "@/components/Rodape";
+import RegisterForm from "@/components/Formulario";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <Inicio />
       <SessaoAcessibilidade />
       <Mercado />
+      <RegisterForm />
       <Rodape />
     </>
     
