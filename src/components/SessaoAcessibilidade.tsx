@@ -11,7 +11,7 @@ export default function SessaoAcessibilidade() {
                         <div className="acessibilidade">
                             <span className="span-acessibilidade"> Nossa Acessibilidade </span>
                             <h2 className="titulo-acessibilidade"> Conheça nossos Métodos </h2>
-                            <p className="subtitulo-acessibilidade"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor facere adipisci saepe assumenda! Et, eligendi quaerat illo architecto nemo sunt, nam alias placeat nobis recusandae quibusdam deleniti officia eius quas. </p>
+                            <p className="subtitulo-acessibilidade"> Levando em consideração o tamanho de mercado, iremos criar um menu de acessibilidade, no próprio Header do site, para que usuários com qualquer dificuldade visual possa usufruir de todos os elementos do site. Já usuários que possuem dificuldades auditivas, cada vídeo e imagem possuirá legendas ja estabelecidas no código HTML. </p>
                         </div>
 
                         <div>

@@ -16,7 +16,7 @@ export default function Mercado() {
                         <div className="mercado-txt">
                             <span className="span-mercado"> Tamanho de Mercado </span>
                             <h2 className="titulo-mercado"> Conheça o Tamanho do Mercado </h2>
-                            <p className="subtitulo-mercado"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor facere adipisci saepe assumenda! Et, eligendi quaerat illo architecto nemo sunt, nam alias placeat nobis recusandae quibusdam deleniti officia eius quas. </p>
+                            <p className="subtitulo-mercado"> 46 milhões de pessoas com algum tipo de deficiência. Cerca de 7 milhões de deficientes visuais. Atualmente, dados da Locomotiva Pesquisa & Estratégia revelam que 10,7 milhões de brasileiros têm algum tipo de deficiência auditiva, sendo 54% homens e 46% mulheres. </p>
                         </div>
                     </div>
                 </Container>

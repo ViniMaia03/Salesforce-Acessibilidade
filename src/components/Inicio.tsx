@@ -11,11 +11,11 @@ export default function Inicio() {
                 <Container>
                     <div className="conteudo-txt-inicio">
                         <h1 className="titulo-inicio"> Salesforce de uma maneira acessível para todos. </h1>
-                        <p className="subtitulo-inicio"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, explicabo doloremque numquam, repellat, ipsum quod in omnis incidunt asperiores similique quas nesciunt. Voluptate unde, quibusdam laudantium totam aut autem quidem. </p>
+                        <p className="subtitulo-inicio"> Hoje, a empresa Salesforce, se encontra com um portal nada acassível para clientes que possuem certas dificuldades para acesso. Pensando nisso, e levando em consideração o tamanho de mercado, nós alunos no 1ºTDSPB pensamos na seguinte solução. </p>
                     </div>
 
                     <div className="area-btn-inicio">
-                        <BotaoInicio desc="Acessibilidade"/> 
+                        <BotaoInicio desc="Nossos Métodos"/> 
                         <BotaoInicio desc="Mercado"/> 
                     </div>
                 </Container>
