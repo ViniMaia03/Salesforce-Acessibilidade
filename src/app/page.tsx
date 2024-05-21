@@ -5,6 +5,8 @@ import SessaoAcessibilidade from "@/components/SessaoAcessibilidade";
 import Mercado from "@/components/SessaoMercado";
 import Rodape from "@/components/Rodape";
 import RegisterForm from "@/components/Formulario";
+import Produtos from "@/components/Produtos";
+
 
 export default function Home() {
   return (
@@ -12,9 +14,9 @@ export default function Home() {
       <Inicio />
       <SessaoAcessibilidade />
       <Mercado />
+      <Produtos />
       <RegisterForm />
       <Rodape />
     </>
-    
   );
 }

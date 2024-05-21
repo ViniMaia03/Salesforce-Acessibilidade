@@ -4,6 +4,7 @@ import ArrowDown from '@/assets/arrow-down.svg'
 import Item from "./Itens";
 import Buscar from "./Buscar";
 import '../styles/style.css';
+import App from "@/components/App";
 
 export default function Header() {
     return (
@@ -21,8 +22,9 @@ export default function Header() {
                             </ul>
                         </div>
 
-                        <div>
+                        <div className="components-header">
                             <Buscar />
+                            <App />
                         </div>
                     </div>
                 </div>
